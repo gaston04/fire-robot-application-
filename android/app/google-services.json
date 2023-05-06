@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966851396198",
+    "project_id": "firerobot-ea3a8",
+    "storage_bucket": "firerobot-ea3a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966851396198:android:5285e6abf4f4991260a3a7",
+        "android_client_info": {
+          "package_name": "com.example.robot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966851396198-7n8i99p0t02u52hirj08d7v4l329ttgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVPppcCGDo8Srmky1X3X_AqOJzzk6PcoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966851396198-7n8i99p0t02u52hirj08d7v4l329ttgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
